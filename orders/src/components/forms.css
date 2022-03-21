@@ -1,0 +1,17 @@
+.col-md-5{
+    background-color:thistle;
+    display:inline-block;
+    position: absolute;
+    top:25%;
+    left:35%;
+    border:2px solid;
+    width:30%;
+}
+.form-label{
+    color:blue
+}
+/* .buttons{
+    display: block;
+    position: relative;
+    margin-left: 48%;
+} */
